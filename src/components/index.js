@@ -5,12 +5,4 @@ import Loader from './Loader'
 import { SuccessToast, ErrorToast } from './Toast'
 import PageHeader from './PageHeader'
 
-export {
-  Table,
-  Button,
-  Modal,
-  Loader,
-  SuccessToast,
-  ErrorToast,
-  PageHeader
-}
+export { Table, Button, Modal, Loader, SuccessToast, ErrorToast, PageHeader }
