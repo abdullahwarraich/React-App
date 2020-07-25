@@ -1,5 +1,5 @@
 
-# Tazweed Web App 
+# React Web App 
 
 ### Prerequisites
 
